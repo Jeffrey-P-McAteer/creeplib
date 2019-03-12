@@ -1,5 +1,5 @@
-extern crate creepdefense;
-use creepdefense::*;
+extern crate creeplib;
+use creeplib::*;
 
 fn main() {
   
